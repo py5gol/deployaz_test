@@ -19,5 +19,5 @@ import mapping.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', mapping.views.hello),
+    path('hello/', mapping.views.hello),
 ]
