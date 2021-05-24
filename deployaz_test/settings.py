@@ -25,7 +25,7 @@ SECRET_KEY = 'ctg0ou%h*zkl)jx36npa@fe#%nb@dbgs4&h5@#9!mryknp7--i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ccnetapp4.azurewebsites.net',]
 
 
 # Application definition
